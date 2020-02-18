@@ -6,3 +6,5 @@ title: heyy
 this is a test blog!
 
 **what is up homies**
+
+![](/assets/asdf.png)
